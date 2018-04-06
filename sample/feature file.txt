@@ -1,0 +1,7 @@
+Feature: 
+  I want to use this template for my feature file
+
+  Scenario: Title of your scenario
+    Given I want to open google
+    When I enter something in search box
+    Then I should get home page of searched data
