@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FA_SearchFlight</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6ccb21f-5d6d-4fd1-85bd-aac48a85b314</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>37934e95-e43a-4350-a65d-c5d7eade1865</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>37934e95-e43a-4350-a65d-c5d7eade1865</id>
+      <masked>false</masked>
+      <name>FlightID</name>
+   </variable>
+</TestCaseEntity>

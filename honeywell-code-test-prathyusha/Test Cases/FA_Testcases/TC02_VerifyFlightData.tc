@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_VerifyFlightData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c3d7149-83ec-45e7-81c8-bf3f45a32833</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ed6dfa62-650d-415c-be36-b7b9067ac47d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f7237bfa-b584-4751-a2a9-6a7666f0029f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TC02_VerifyFlightData'</defaultValue>
+      <description></description>
+      <id>ed6dfa62-650d-415c-be36-b7b9067ac47d</id>
+      <masked>false</masked>
+      <name>TCName</name>
+   </variable>
+   <variable>
+      <defaultValue>'AAL2578'</defaultValue>
+      <description></description>
+      <id>f7237bfa-b584-4751-a2a9-6a7666f0029f</id>
+      <masked>false</masked>
+      <name>FlightID</name>
+   </variable>
+</TestCaseEntity>
